@@ -1,2 +1,2 @@
 # OrderRestaurant
-# this is try to make automated processes possible in a restaurant
+# this is a try to make automated processes possible in a restaurant
